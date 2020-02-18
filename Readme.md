@@ -18,22 +18,22 @@ Author : irpan.kusuma@gmail.com / anonymous.ikwijaya@gmail.com
 
 # Example
 <code>
-    let str = 'create_parking_lot 6 \n' 
-    str += 'park KA-01-HH-1234 \n'             
-    str += 'park KA-01-HH-9999 \n'             
-    str += 'park KA-01-BB-0001 \n'             
-    str += 'park KA-01-HH-7777 \n'             
-    str += 'park KA-01-HH-2701 \n'             
-    str += 'park KA-01-HH-3141 \n'    
-    str += 'leave KA-01-HH-3141 \n'             
-    str += 'status \n'    
-    str += 'park KA-01-P-333 \n'    
-    str += 'park DL-12-AA-9999 \n'    
-    str += 'leave KA-01-HH-1234 \n'    
-    str += 'leave KA-01-BB-0001 \n'
-    str += 'leave DL-12-AA-9999 \n'
-    str += 'park KA-09-HH-0987 \n'
-    str += 'park CA-09-IO-1111 \n'
-    str += 'park KA-09-HH-0123 \n'
-    str += 'status'; 
+    let str = 'create_parking_lot 6 \n' <br />
+    str += 'park KA-01-HH-1234 \n'      <br /> 
+    str += 'park KA-01-HH-9999 \n'      <br />       
+    str += 'park KA-01-BB-0001 \n'      <br />       
+    str += 'park KA-01-HH-7777 \n'      <br />       
+    str += 'park KA-01-HH-2701 \n'      <br />       
+    str += 'park KA-01-HH-3141 \n'    <br />
+    str += 'leave KA-01-HH-3141 \n'     <br />        
+    str += 'status \n'    <br />
+    str += 'park KA-01-P-333 \n'    <br />
+    str += 'park DL-12-AA-9999 \n'    <br />
+    str += 'leave KA-01-HH-1234 \n'    <br />
+    str += 'leave KA-01-BB-0001 \n'<br />
+    str += 'leave DL-12-AA-9999 \n'<br />
+    str += 'park KA-09-HH-0987 \n'<br />
+    str += 'park CA-09-IO-1111 \n'<br />
+    str += 'park KA-09-HH-0123 \n'<br />
+    str += 'status'; <br />
 </code>
