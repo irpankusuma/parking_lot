@@ -37,3 +37,7 @@ Author : irpan.kusuma@gmail.com / anonymous.ikwijaya@gmail.com
     str += 'park KA-09-HH-0123 \n'<br />
     str += 'status'; <br />
 </code>
+
+# Output
+
+![alt text](https://raw.githubusercontent.com/irpankusuma/parking_lot/master/result.PNG)
